@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: 192.168.1.16
-        username: Administrator
-        password: Nexus@555
+        server: 103.205.66.80
+        username: Mawai_admin
+        password: 543GeJ%54@3
